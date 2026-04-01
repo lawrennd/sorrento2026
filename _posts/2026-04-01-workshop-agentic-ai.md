@@ -91,7 +91,7 @@ talks:
     affiliation: University of Oxford
   abstract: |
    The talk introduces the concept of ‘careless speech’, a novel type of harmful speech produced by large language models (LLM) that poses cumulative, long-term risks to science, education, and the development of shared social truths in democratic societies. LLMs produce responses that are plausible, helpful, and confident but that contain factual inaccuracies, inaccurate summaries, misleading references, and biased information. These subtle mistruths may degrade and homogenise knowledge search and production over time. The talk examines the existence and feasibility of a legal duty for LLM providers to create models that “tell the truth,” and proposes a limited technical solution to the problem.
-- title: "DOAgent: A Data-Oriented Library for Observable Multi-Agent Systems"
+- title: "DOAgent: Towards Observable Multi-Agent Systems"
   start: "14:50"
   end: "15:10"
   speaker: Christian Cabrera
